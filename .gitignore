@@ -1,0 +1,28 @@
+*.doc
+*.pdf
+*.eps
+*.png
+#TEX outputs
+*.out
+*.aux
+*.toc
+*.log
+*.dvi
+*.bbl
+*.blg
+*.lof
+*.m~
+*.asv
+*.gz
+*.bak
+*.fdb_latexmk
+*.fls
+#Python outputs
+*.ipynb_checkpoints
+*.ipynb
+*.py
+#Project files
+*.sublime-project
+*.sublime-workspace
+#=================KEEP these files=======================
+# !thesis.pdf
