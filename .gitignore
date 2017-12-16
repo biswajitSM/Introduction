@@ -19,8 +19,8 @@
 *.fls
 #Python outputs
 *.ipynb_checkpoints
-*.ipynb
-*.py
+# *.ipynb
+# *.py
 #Project files
 *.sublime-project
 *.sublime-workspace
